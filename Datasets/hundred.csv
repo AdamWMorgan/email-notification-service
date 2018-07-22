@@ -1,0 +1,57 @@
+"","Year","Name","Victor","Number","Location","Details","lon","lat"
+"1",1337,"Battle of Cadzand","England",1,"Cadzand","",3.4077694,51.3692317
+"2",1338,"Battle of Arnemuiden","France",2,"Arnemuiden","The first naval battle using artillery, as the English ship Christofer had three cannons and one hand gun.",3.6759015,51.5011231
+"3",1340,"Battle of Sluys","England",3,"Sluys","24 June Edward III destroys the Franco-Genoese fleet of Philip VI of France off the coast of Flanders ensuring England will not be invaded and that the majority of the war will be fought in France.",3.4876046,51.3253599
+"4",1340,"Battle of Saint-Omer","France",4,"Saint-Omer","The battle of Saint-Omer was the culmination of the northern fork of Edward's campaign and resulted in a tactical stalemate but forced a strategic withdrawal for the Anglo-Flemish forces.",2.252208,50.750115
+"5",1340,"Siege of Tournai","France",5,"Tournai","Tournai was relieved.",3.3879338,50.6056475
+"6",1341,"Battle of Champtoceaux","France",6,"Champtoceaux","",-1.267219,47.337469
+"7",1342,"Battle of Brest","England",7,"Brest","",-4.486076,48.390394
+"8",1342,"Battle of Morlaix","France",8,"Morlaix","",-3.828228,48.577613
+"9",1345,"Battle of Auberoche","England",9,"Auberoche","English surprise attack by Earl of Derby against a French army at Auberoche in Gascony.",0.9139375,45.1106798
+"10",1346,"Battle of Saint-Pol-de-Léon","England",10,"Saint-Pol-de-Leon","",-3.986533,48.685113
+"11",1346,"Battle of Caen","England",11,"Caen","Caen was sacked.",-0.370679,49.182863
+"12",1346,"Battle of Blanchetaque","England",12,"Abbeville","English army successfully forded the river.",1.836833,50.105467
+"13",1346,"Battle of Crécy","England",13,"Crecy-en-Ponthieu","26 August English longbowmen soundly defeat French cavalry near the river Somme in Picardy.",1.882892,50.252468
+"14",1346,"Battle of Neville's Cross","England",14,"Neville's Cross","",-1.594788,54.772013
+"15",1346,"Siege of Calais","England",15,"Calais","On 1 August 1347, the city surrendered. Edward allowed the surviving citizenry to live, so, after providing them with some provisions, he allowed them to leave the city.",1.858686,50.95129
+"16",1347,"Battle of La Roche-Derrien","England",16,"La Roche-Derrien","",-3.263309,48.747357
+"17",1350,"Les Espagnols sur Mer","England",17,"Winchelsea","English fleet defeats Castilian fleet in a close fight.",0.7095541,50.9249721
+"18",1351,"Battle of Ardres","France",18,"Ardres","",1.976552,50.853961
+"19",1351,"Combat of the Thirty","France",19,"Josselin","Thirty French Knights from Chateau Josselin under Beaumanoir call out and defeat thirty English Knights under Pembroke and Robert Bramborough.",-2.546427,47.95383
+"20",1352,"Battle of Mauron","England",20,"Mauron","10 August, small victory of Brittany-English forces against Brittany-French ones.",-2.283582,48.083875
+"21",1353,"Capture of Saint-Jean-d'Angély","France",21,"Saint-Jean-d\'Angely","",-0.517763,45.944823
+"22",1353,"Capture of Lusignan","France",22,"Lusignan","",0.122455,46.43471
+"23",1353,"Battle of Comborn","England",23,"Comborn","",1.4711,45.32168
+"24",1354,"Battle of Montmuran","France",24,"Montmuran","Easter 1354, victory of Brittany-French forces against English ones.",-1.860419,48.292896
+"25",1356,"Battle of Poitiers","England",25,"Poitiers","Edward the Black Prince captures King John II of France, France plunged into chaos.",0.3380196,46.5784725
+"26",1364,"Battle of Cocherel","France",26,"Cocherel","16 May, near Houlbec-Cocherel, victory of Brittany-Burgundy-Gascony forces against Navarrese-English ones.",3.100598,49.021652
+"27",1364,"Battle of Auray","England",27,"Auray","29 September, end of Breton War of Succession Du Guesclin captured.",-2.983767,47.666491
+"28",1367,"Battle of Nájera (Navarette)","England",28,"Navarette","Black Prince defeats a Castilian/French army at Nájera in Castile.",-2.5619607,42.429811
+"29",1369,"Battle of Montiel","France",29,"Montiel","14 March, in Castille, Castilian/French army defeats a Castilian/Portuguese force.",-2.866439,38.6978849
+"30",1370,"Siege of Limoges","England",30,"Limoges","",1.261105,45.833619
+"31",1370,"Battle of Pontvallain","France",31,"Pontvallain","4 December, the Brittany-French army defeats English forces.",0.192151,47.751156
+"32",1372,"Battle of La Rochelle","Castille",32,"La Rochelle","Castilian fleet defeats the English fleet, leading to loss of dominance at sea and French piracy and coastal raids.",-1.151139,46.160329
+"33",1372,"Battle of Chiset","France",33,"Chiset, France","",-0.6306044,44.7722732
+"34",1382,"Battle of Roosebeke","France",34,"Kortrijk, Belgium","27 November, a French-Burgundy-Brittany-Norman army defeats a Flemish force twice more numerous.",3.2577263,50.8194776
+"35",1385,"French invasion of Scotland","England",35,"Carlisle","Jean de Vienne, having successfully strengthened the French naval situation, lands an army in Scotland, but is forced to retreat.",-2.932931,54.892473
+"36",1415,"Siege of Harfleur","England",36,"Harfleur","",0.198015,49.511788
+"37",1415,"Battle of Agincourt","England",37,"Agincourt","25 October, English longbowmen under Henry V defeat French under Charles d'Albert.",6.236217,48.73204
+"38",1418,"Siege of Rouen","England",38,"Rouen","31 July ? 19 January 1419, Henry V of England re-gains a foothold in Normandy.",1.099971,49.443232
+"39",1419,"Battle of La Rochelle","Castille",39,"La Rochelle","Castilian fleet defeats the English fleet.",-1.151139,46.160329
+"40",1420,"Battle of Fresnay","England",40,"Fresnay","3 March, the Battle resulted in the defeat of a large Franco-Scottish army.",4.749351,48.314183
+"41",1421,"Battle of Baugé","France",41,"Bauge","22 March, the French and Scottish forces of Charles VII commanded by the Earl of Buchan defeat an outmanoeuvred English force commanded by the Duke of Clarence.",-0.1012308,47.5410397
+"42",1422,"Siege of Meaux","England",42,"Meaux","",2.8884657,48.9562018
+"43",1423,"Battle of Cravant","England",43,"Cravant","31 July, the French and Scottish army is defeated at Cravant on the banks of the river Yonne.",1.573664,47.828069
+"44",1423,"Battle of La Brossinière","France",44,"La Brossiniere","26 September, Brittany-French forces annihilates an English army.",2.142865,47.665261
+"45",1424,"Battle of Verneuil","England",45,"Verneuil","17 August, the French and Scottish forces are decisively defeated.",3.671497,49.1041219
+"46",1426,"Battle of St. James","England",46,"Avranches","6 March, a French besieging army under Arthur de Richemont dispersed by a small force under Sir Thomas Rempstone in Brittany.",-1.36166,48.686843
+"47",1428,"Siege of Orléans","France",47,"Orleans","12 October - 8 May 1429 English forces commanded by the Earl of Salisbury, the Earl of Suffolk, and Talbot (Earl of Shrewsbury) lay siege to Orleans, and are forced to withdraw after a relief army accompanied by Joan of Arc arrives at the city.",1.909251,47.902964
+"48",1429,"Battle of the Herrings","England",48," Rouvray","English force under Sir John Fastolf defeats French and Scottish armies.",4.102647,47.42401
+"49",1429,"Battle of Jargeau","France",49,"Jargeau","12 June. French forces recaptured the neighboring district along the Loire river. The English suffered heavy losses.",2.122264,47.866604
+"50",1429,"Battle of Meung-sur-Loire","France",50,"Meung-sur-Loire","",1.697432,47.827007
+"51",1429,"Battle of Beaugency","France",51,"Beaugency","English surrendered the town.",1.633523,47.778071
+"52",1429,"Battle of Patay","France",52,"Patay","18 June, In a reverse of Agincourt/Crécy, a French army under La Hire, Richemont, Joan of Arc, and other commanders break through English archers under Lord Talbot and then pursue and mop up the other sections of the English army, killing or capturing about half (2,200) of their troops. The Earl of Shrewsbury (Talbot) and Hungerford are captured.",1.694368,48.04798
+"53",1435,"Battle of Gerbevoy","France",53,"Gerbevoy","La Hire defeats an English force under Arundel.",1.850054,49.534236
+"54",1449,"Battle of Rouen","France",54,"Rouen","29 October, Rouen is regained from the English by a Brittany-French force.",1.099971,49.443232
+"55",1450,"Battle of Formigny","France",55,"Formigny","A French force under the duke of Bourbon and Richemont defeats an English force under Thomas Kyriell. 3,774 English deaths and 1,500 captured. Thomas Kyriel, the English general, was captured in action.",-0.893701,49.340676
+"56",1453,"Battle of Castillon","France",56,"Castillon-la-Bataille","A French army, under Jean Bureau, defeats an English army under John Talbot to end the Hundred Years' War. This was also the first battle in European history where the use of cannon was a major factor in determining the victor. John Talbot was killed in action. 4,000 English killed in this battle.",-0.043008,44.852067
